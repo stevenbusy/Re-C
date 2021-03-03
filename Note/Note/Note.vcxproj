@@ -141,7 +141,12 @@
     <ClCompile Include="1.cpp" />
     <ClCompile Include="2.1选择结构.cpp" />
     <ClCompile Include="2.2循环结构.cpp" />
-    <ClCompile Include="3数组.cpp" />
+    <ClCompile Include="4函数.cpp" />
+    <ClCompile Include="4函数定义.cpp" />
+    <ClCompile Include="5指针.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="4函数.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

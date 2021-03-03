@@ -24,8 +24,19 @@
     <ClCompile Include="2.2循环结构.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="3数组.cpp">
+    <ClCompile Include="4函数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="4函数定义.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="4函数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
